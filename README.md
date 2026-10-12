@@ -1,7 +1,6 @@
 # warehouse_drone_forklift_sim
 
 - Gazebo 창고 환경에서 드론(X4_GPS_RGBD)과 터틀봇3 burger(지게차 역할)를 이용해 **물품 탐색 → ID 전달 → 지게차 이동**까지 하나의 파이프라인으로 시뮬레이션하는 ROS2 Humble 프로젝트입니다.
----
 ## 시연 영상
 [![Video Label](https://img.youtube.com/vi/fuVx-DQAfmw/0.jpg)](https://youtu.be/fuVx-DQAfmw)
 ---
